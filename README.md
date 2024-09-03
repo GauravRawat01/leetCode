@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems
 
-Apart from the problems, here are the link for the questions marked to appear in the Wisetech Test:
+Apart from the problems, here are the link for the questions marked to appear in the Test:
 
 Question 1: Count Zero Request Servers
 Link:
